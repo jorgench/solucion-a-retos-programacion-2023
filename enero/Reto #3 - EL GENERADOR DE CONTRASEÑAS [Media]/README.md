@@ -1,5 +1,6 @@
 #### Reto #3: EL GENERADOR DE CONTRASEÑAS
 Dificultad: **Media**
+
 Enunciado
 
 Escribe un programa que sea capaz de generar contraseñas de forma aleatoria. Podrás configurar generar contraseñas con los siguientes parámetros:
